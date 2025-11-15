@@ -55,7 +55,8 @@
 1. **Download** the latest release: `SafeClean_Setup_v2.0.1.exe`
 2. **Right-click** the installer and select "Run as administrator"
 3. **Follow** the setup wizard instructions
-4. **Launch** SafeClean from the Start Menu or Desktop shortcut
+4. **Enter** the serial number: `13413412`
+5. **Launch** SafeClean from the Start Menu or Desktop shortcut
 
 ## 🔧 Usage
 
